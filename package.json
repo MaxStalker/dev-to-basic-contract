@@ -1,0 +1,11 @@
+{
+  "name": "BasicContract",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Max Daunarovich <max.daunarovich@gmail.com>",
+  "license": "MIT",
+  "description": "Basic contract to showcase transactions",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
